@@ -1,3 +1,5 @@
 node_modules/
 components
 .DS_Store
+favicon.gif
+favicon.ico
