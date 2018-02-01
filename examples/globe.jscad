@@ -5,7 +5,7 @@
 // date       : 22.12.2013
 // file       : globe.jscad
 
-include ("/../platonics/maths_geodesic.jscad");
+include ("/../examples/platonics/maths_geodesic.jscad");
 
 // Small scale world data from http://www.naturalearthdata.com converted to GeoJSON with QGIS (http://www.qgis.org/.)
 var Globe = {
